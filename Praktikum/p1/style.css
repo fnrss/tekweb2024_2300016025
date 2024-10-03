@@ -1,0 +1,44 @@
+img {
+  margin-top: 30px;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+span {
+  color: rgb(255, 255, 255);
+}
+span1 {
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  color: aliceblue;
+}
+
+
+h1 {
+  color: aliceblue;
+}
+
+p {
+  color: aliceblue;
+}
+
+.footer .copy {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+}
+
+.footer {
+  background-color: black;
+  margin-bottom: -700px;
+}
